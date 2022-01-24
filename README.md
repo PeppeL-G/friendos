@@ -1,2 +1,2 @@
-# friendos
-Android app that shows information about friends.
+# Friendos
+An Android app that shows information about friends. Very good app!
